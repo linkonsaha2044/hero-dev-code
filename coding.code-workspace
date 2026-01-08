@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../../coding"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"Q_12.C": "cpp"
+		}
+	}
+}
